@@ -1,0 +1,30 @@
+{
+    "name": "bend-gauge",
+    "title": "jQuery Bend Gauge",
+    "description": "Pretty simple circular value indicator created using RaphaelJS. Fairly customizable.",
+    "keywords": [
+        "svg",
+        "jquery",
+        "raphael",
+        "indicator"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Przemysław Pawliczuk",
+        "url": "http://przemyslaw.pawliczuk.pl"
+    }
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/er1z/jquery-bend-gauge/issues",
+    "homepage": "https://github.com/er1z/jquery-bend-gauge",
+    "docs": "https://github.com/er1z/jquery-bend-gauge",
+    "download": "https://github.com/er1z/jquery-bend-gauge/tags",
+    "dependencies": {
+        "jquery": ">=1.7",
+		"raphael": ">=2.10"
+    }
+}
