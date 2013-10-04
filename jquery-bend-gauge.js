@@ -633,7 +633,7 @@
              */
             this.stop = function(){
                 // clear queue
-                $($obj).clearQueue('jquery-gauge');
+                $($obj).clearQueue(options.queue);
 
                 /**
                  * helper job to clear some variables
