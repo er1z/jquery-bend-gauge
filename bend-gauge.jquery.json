@@ -8,7 +8,7 @@
         "raphael",
         "indicator"
     ],
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": {
         "name": "Przemysław Pawliczuk",
         "url": "http://przemyslaw.pawliczuk.pl"
@@ -25,6 +25,6 @@
     "download": "https://github.com/er1z/jquery-bend-gauge/tags",
     "dependencies": {
         "jquery": ">=1.7",
-		"raphael": ">=2.10"
+		"raphael": ">=2.x"
     }
 }
