@@ -524,7 +524,7 @@
                 var amount = !!times ? times : 1;
 
                 // get current enabled state indexes
-                flashMatrix = rotationMatrix || that.getMatrix();
+                flashMatrix = rotationMatrix.length>0 ? rotationMatrix : that.getMatrix();
                 // prepare clearing matrix
                 var empty = [0,0,0,0,0,0,0,0,0,0];
 
